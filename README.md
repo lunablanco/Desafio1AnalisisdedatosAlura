@@ -1,2 +1,2 @@
-# Desafio1AnalisisdedatosAlura
+# AluraStore
 Análisis de datos utilizando python
