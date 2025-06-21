@@ -5,4 +5,4 @@ El objetivo de este proyecto es realizar un analisis cuatro tiendas, con bases d
 Se puede ver el análisis completo en el documento de google.colab 
 
 # Contacto
-Este trabajo fue realizao por Luna Blanco 
+Desarrollado por [Luna Blanco](https://www.linkedin.com/in/elebe140278) Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
